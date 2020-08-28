@@ -27,7 +27,7 @@ th, td{
 	width:200px;
 	height: 200px;
 	border-radius: 50%;
-	background-image: conic-gradient(pink 100deg, lightblue 0 150deg, orange 0 190deg , red 0 160deg);
+	background-image: conic-gradient(orange 36deg, lightblue 0 108deg, pink 0 216deg , red 0 144deg);
 }
 
 .box{
